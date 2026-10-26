@@ -1,7 +1,7 @@
 # Repository for final project
 # Final Project
 
-## 📌 Overview
+## Overview
 This repository contains the **Final Project for the Final Project Submission and Evaluation**.  
 The project demonstrates the deployment of a Flask-based web application that integrates with Watson NLP libraries to perform **emotion detection** and **sentiment analysis**.
 
